@@ -7,6 +7,7 @@ To conduct a comprehensive data analysis of the Ola ride booking and cancellatio
 https://github.com/soniyaparwani125/Ola-Data-Analysis-Dashboard/blob/main/Bookings-100000-Rows.csv
 
 ### SQL queries:
+https://github.com/soniyaparwani125/Ola-Data-Analysis-Dashboard/blob/main/Ola%20DA%20SQL%20queries.sql
 
 ### Dashboard prepared:
 
