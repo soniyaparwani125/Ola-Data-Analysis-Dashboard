@@ -6,6 +6,8 @@ To conduct a comprehensive data analysis of the Ola ride booking and cancellatio
 ### Dataset used:
 https://github.com/soniyaparwani125/Ola-Data-Analysis-Dashboard/blob/main/Bookings-100000-Rows.csv
 
+### SQL queries:
+
 ### Dashboard prepared:
 
 
