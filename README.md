@@ -6,6 +6,9 @@ To conduct a comprehensive data analysis of the Ola ride booking and cancellatio
 ### Dataset used:
 https://github.com/soniyaparwani125/Ola-Data-Analysis-Dashboard/blob/main/Bookings-100000-Rows.csv
 
+### Dashboard prepared:
+
+
 ### OLA Data Analyst Project SQL Questions (KPIs):
 1. Retrieve all successful bookings.
 2. Find the average ride distance for each vehicle type. 
