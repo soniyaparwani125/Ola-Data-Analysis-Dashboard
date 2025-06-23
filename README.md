@@ -10,6 +10,7 @@ https://github.com/soniyaparwani125/Ola-Data-Analysis-Dashboard/blob/main/Bookin
 https://github.com/soniyaparwani125/Ola-Data-Analysis-Dashboard/blob/main/Ola%20DA%20SQL%20queries.sql
 
 ### Dashboard prepared:
+https://manitacin-my.sharepoint.com/:u:/g/personal/2211701116_manit_ac_in/ESk9HZ7n-LFKrBeAEO5PgpkBDPO-WXiyksUmhziAUai6Ng?e=9wH4mY
 
 
 ### OLA Data Analyst Project SQL Questions (KPIs):
