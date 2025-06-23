@@ -38,4 +38,15 @@ https://manitacin-my.sharepoint.com/:u:/g/personal/2211701116_manit_ac_in/ESk9HZ
 9. Driver Ratings Distribution 
 10. Customer vs. Driver Ratings
 
+![Screenshot 2025-06-23 210340](https://github.com/user-attachments/assets/b901d304-cb23-4d02-9fd2-4c4a5454a47c)
+![Screenshot 2025-06-23 210424](https://github.com/user-attachments/assets/71b2b3cc-f49e-46f3-a320-a9a3d89626b6)
+![Screenshot 2025-06-23 210454](https://github.com/user-attachments/assets/9488e951-31be-4c08-b58f-3f9604c7f1b9)
+![Screenshot 2025-06-23 210547](https://github.com/user-attachments/assets/cd92eb08-bbd9-4b57-b5f5-4261a4d083dc)
+![Screenshot 2025-06-23 210607](https://github.com/user-attachments/assets/eece9e3f-a6ae-4bc7-986e-409fc4e23c08)
+
+
+
+
+
+
 
